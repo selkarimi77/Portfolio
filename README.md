@@ -1,12 +1,12 @@
 # Data Analyst
 
-<span style="color: #EABA6B; font-size: 24px; font-weight: bold;">#### Technical Skills</span> :  Power BI, Power Automate, Python, SQL, T-SQL,, Tableau, Qlik Sense, Pyramid Analytics, SQL Server Suite (SSMS, SSIS, SSRS, SSAS)
+Technical Skills:  Power BI, Power Automate, Python, SQL, T-SQL,, Tableau, Qlik Sense, Pyramid Analytics, SQL Server Suite (SSMS, SSIS, SSRS, SSAS)
 
 <span style="color: #127BA1; font-size: 24px; font-weight: bold;">## Certifications</span>
-- **Certification PL 300 Power BI | Microsoft** (_August 2024_)
-- **Certification Data Anlayst Bootcamp Berkeley** (_March 2022_)
-- **Guide Completn WordPress** (_March 2022_)
-- **Niveau Expert Powerpoint 2016** (_August 2021_)
+- Certification PL 300 Power BI | Microsoft (_August 2024_)
+- Certification Data Anlayst Bootcamp Berkeley (_March 2022_)
+- Guide Completn WordPress (_March 2022_)
+- Niveau Expert Powerpoint 2016 (_August 2021_)
 
 <span style="color: #127BA1; font-size: 24px; font-weight: bold;">## Education</span>
 - **Data Analyst : Consultant Power BI | IBS Global Services, consultant Power BI**
@@ -31,6 +31,6 @@
 - Managed project deliverables
 - Drafted event reports and created promotional materials
 - 
-<span style="color: #127BA1; font-size: 24px; font-weight: bold;">## Skills</span>
+Skills
 - **Languages:** English (Advanced), Arabic (Fluent), Spanish (Beginner)
 - **Interpersonal Skills:** Analytical Thinking, Problem Solving, Empathy, Team Spirit
