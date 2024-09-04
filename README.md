@@ -9,10 +9,10 @@
 - Niveau Expert Powerpoint 2016 (_August 2021_)
 
 ## Education
-- **Data Analyst : Consultant Power BI | IBS Global Services, consultant Power BI**
-- **Data Analyst Bootcamp 400 hours | LePont, Université de Berkeley**
+- Data Analyst : Consultant Power BI | IBS Global Services, consultant Power BI
+- Data Analyst Bootcamp 400 hours | LePont, Université de Berkeley
   - Focus: ETL, Synthesizing Data Sources, Data Extraction, KPI & Metrics Identification, RGPD
-- **M2 Analyse et Valorisation des Usages Numériques | Université Paris Vincennes-Saint-Denis**
+- M2 Analyse et Valorisation des Usages Numériques | Université Paris Vincennes-Saint-Denis
 
 ## Work Experience
 **Data Analyst Power BI (Intership) @ Axa France, Nanterre** (_August 2023 - February 2024_)  
