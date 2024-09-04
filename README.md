@@ -30,7 +30,7 @@
 - Planned and budgeted events
 - Managed project deliverables
 - Drafted event reports and created promotional materials
-- 
+  
 ## Skills
 - Languages: English (Advanced), Arabic (Fluent), Spanish (Beginner)
 - Interpersonal Skills: Analytical Thinking, Problem Solving, Empathy, Team Spirit
