@@ -5,7 +5,7 @@
 ## Certifications
 - Certification PL 300 Power BI | Microsoft (_August 2024_)
 - Certification Data Anlayst Bootcamp Berkeley (_March 2022_)
-- Guide Completn WordPress (_March 2022_)
+- Guide Complet en WordPress (_March 2022_)
 - Niveau Expert Powerpoint 2016 (_August 2021_)
 
 ## Education
@@ -32,5 +32,5 @@
 - Drafted event reports and created promotional materials
   
 ## Skills
-- Languages: English (Advanced), Arabic (Fluent), Spanish (Beginner)
 - Interpersonal Skills: Analytical Thinking, Problem Solving, Empathy, Team Spirit
+- Languages: English (Advanced), Arabic (Fluent), Spanish (Beginner)
